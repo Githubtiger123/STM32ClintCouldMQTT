@@ -33,3 +33,8 @@ DO7 ---> 照明灯
 存在问题:
 数据上传和下发有时会有冲突
 采集上传数据时控制设备指令无效
+
+参考文档
+https://tangxing.blog.csdn.net/article/details/106328156
+https://blog.csdn.net/u014779536/article/details/106355346
+https://blog.csdn.net/sea1216/article/details/112605232
